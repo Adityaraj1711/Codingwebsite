@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+a {
+color: #7369b9;
+}
+
+p a {
+color: #7369b9;
+}
+
+h5 {
+color: #7369b9;
+}
+
+.title-intro-time {
+color: #7369b9;
+}
+
+.title-intro-the-sea {
+color: #7369b9;
+}
+
+.line-left {
+background: #7369b9;
+}
+
+.lead-icon {
+color: #7369b9;
+}
+
+@-webkit-keyframes glow {
+    0% {
+		border-color: #7369b9;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #7369b9;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-moz-keyframes glow {
+    0% {
+		border-color: #7369b9;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #7369b9;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-o-keyframes glow {
+    0% {
+		border-color: #7369b9;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #7369b9;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-ms-keyframes glow {
+    0% {
+		border-color: #7369b9;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #7369b9;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@keyframes glow {
+    0% {
+		border-color: #7369b9;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #7369b9;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+
+.submit-button {
+background: #7369b9;
+}
+
+.submit-button:hover {
+color: #fff;
+background: #7369b9;
+}
+
+.submit-button-2 {
+background: #7369b9;
+}
+
+.submit-button-2:hover {
+color: #fff;
+background: #7369b9;
+}
+
+.owl-page.active span {    
+background: #7369b9;
+}
+
+/* Styleswitch [DEMO only] */
+.expand { 
+background: #7369b9;
+}
+
+.options-head {
+background: #7369b9;
+}

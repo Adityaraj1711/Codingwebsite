@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+a {
+color: #34c5ba;
+}
+
+p a {
+color: #34c5ba;
+}
+
+h5 {
+color: #34c5ba;
+}
+
+.title-intro-time {
+color: #34c5ba;
+}
+
+.title-intro-the-sea {
+color: #34c5ba;
+}
+
+.line-left {
+background: #34c5ba;
+}
+
+.lead-icon {
+color: #34c5ba;
+}
+
+@-webkit-keyframes glow {
+    0% {
+		border-color: #34c5ba;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #34c5ba;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-moz-keyframes glow {
+    0% {
+		border-color: #34c5ba;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #34c5ba;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-o-keyframes glow {
+    0% {
+		border-color: #34c5ba;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #34c5ba;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-ms-keyframes glow {
+    0% {
+		border-color: #34c5ba;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #34c5ba;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@keyframes glow {
+    0% {
+		border-color: #34c5ba;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #34c5ba;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+
+.submit-button {
+background: #34c5ba;
+}
+
+.submit-button:hover {
+color: #fff;
+background: #34c5ba;
+}
+
+.submit-button-2 {
+background: #34c5ba;
+}
+
+.submit-button-2:hover {
+color: #fff;
+background: #34c5ba;
+}
+
+.owl-page.active span {    
+background: #34c5ba;
+}
+
+/* Styleswitch [DEMO only] */
+.expand { 
+background: #34c5ba;
+}
+
+.options-head {
+background: #34c5ba;
+}
