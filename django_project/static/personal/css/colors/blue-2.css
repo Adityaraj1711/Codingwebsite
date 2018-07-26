@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+
+a {
+color: #0099ff;
+}
+
+p a {
+color: #0099ff;
+}
+
+h5 {
+color: #0099ff;
+}
+
+.title-intro-time {
+color: #0099ff;
+}
+
+.title-intro-the-sea {
+color: #0099ff;
+}
+
+.line-left {
+background: #0099ff;
+}
+
+.lead-icon {
+color: #0099ff;
+}
+
+@-webkit-keyframes glow {
+    0% {
+		border-color: #0099ff;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #0099ff;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-moz-keyframes glow {
+    0% {
+		border-color: #0099ff;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #0099ff;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-o-keyframes glow {
+    0% {
+		border-color: #0099ff;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #0099ff;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@-ms-keyframes glow {
+    0% {
+		border-color: #0099ff;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #0099ff;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+@keyframes glow {
+    0% {
+		border-color: #0099ff;
+		/* box-shadow: 0 0 5px rgba(0,0,0, .2), inset 0 0 5px rgba(0,0,0, .1); */
+    }	
+    100% {
+		border-color: #0099ff;
+		/* box-shadow: 0 0 20px rgba(0,0,0, .6), inset 0 0 10px rgba(0,0,0, .4); */
+    }
+}
+
+.submit-button {
+background: #0099ff;
+}
+
+.submit-button:hover {
+color: #fff;
+background: #0099ff;
+}
+
+.submit-button-2 {
+background: #0099ff;
+}
+
+.submit-button-2:hover {
+color: #fff;
+background: #0099ff;
+}
+
+.owl-page.active span {    
+background: #0099ff;
+}
+
+/* Styleswitch [DEMO only] */
+.expand { 
+background: #0099ff;
+}
+
+.options-head {
+background: #0099ff;
+}
